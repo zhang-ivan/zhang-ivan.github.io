@@ -1,4 +1,4 @@
-# Ivon Zhang
+# Ivan Zhang
 
 This is my personal homepage.
 
